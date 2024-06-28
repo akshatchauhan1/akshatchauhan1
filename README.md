@@ -2,7 +2,7 @@
 - 👀 I’m interested in professsional,progressive and competitive coding
 - 🌱 I’m currently learning c++,python,introduction to AIML
 - 💞️ I’m looking to collaborate on best projects 
-- 📫 how to reach meakshatchauhan1
+- 📫 how to reach me akshatchauhan1
 
 
 <!---
